@@ -27,6 +27,6 @@ https://flask-pitch.herokuapp.com/
 
 
 #### **Contact**
->Faith Muthoni - faithnjoki812gmail.com
+>Faith Muthoni - faithnjoki81gmail.com
 
  
