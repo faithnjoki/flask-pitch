@@ -22,8 +22,7 @@ The pitches are organized by category.
 2. HTML5
 3. Bootstrap4
 
-live link :
-https://flask-pitch.herokuapp.com/
+
 
 
 #### **Contact**
